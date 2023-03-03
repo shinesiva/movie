@@ -1,0 +1,12 @@
+.col{
+    height: 600px;
+    width: 18.2%;
+    border: black 8px solid;
+    float: left;
+    padding: 3px;
+}
+body{
+    background-color: rgba(156, 177, 179, 0.694);
+    color: black;
+    text-align: center;
+}
